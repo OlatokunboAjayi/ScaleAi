@@ -9,9 +9,9 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/tokunboajayi/ScaleAi"><img src="https://img.shields.io/badge/Scale%20AI-Enterprise%20Grade-blueviolet?style=for-the-badge&logo=scale" alt="Scale AI"></a>
+    <a href="https://github.com/OlatokunboAjayi/ScaleAi"><img src="https://img.shields.io/badge/Scale%20AI-Enterprise%20Grade-blueviolet?style=for-the-badge&logo=scale" alt="Scale AI"></a>
     <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" alt="Python"></a>
-    <a href="https://github.com/tokunboajayi/ScaleAi/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" alt="Build Status"></a>
+    <a href="https://github.com/OlatokunboAjayi/ScaleAi/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" alt="Build Status"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="License"></a>
   </p>
 </div>
